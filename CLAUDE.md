@@ -35,7 +35,16 @@ git push
 ## Course Progress
 
 - [ ] Module 1 — Getting Started with Claude Code
-- [ ] Module 2 — CLI Workflows & Automation
-- [x] Module 3 — Accessing Claude with the API
-- [ ] Module 4 — Agentic AI Patterns
-- [ ] Module 5 — Advanced Use Cases
+- [ ] Module 2 — Building with the Claude API
+  - [x] Accessing Claude with the API
+  - [ ] Prompt Evaluation
+  - [ ] Prompt Engineering Techniques
+  - [ ] Tools with Claude
+  - [ ] Retrieval Augmented Generation
+  - [ ] Features of Claude
+  - [ ] Model Context Protocol
+  - [ ] Anthropic Apps — Claude Code and Computer Use
+  - [ ] Agents and Workflows
+- [ ] Module 3 — Introduction to Model Context Protocol
+- [ ] Module 4 — Model Context Protocol: Advanced Topics
+- [ ] Module 5 — Introduction to Agent Skills
