@@ -23,10 +23,21 @@ Personal notes, projects, and experiments from the **Anthropic Claude Code** cou
 
 ```
 claude-code-learning/
-├── notes/          # Lesson notes and key takeaways
-├── projects/       # Hands-on course projects
-├── experiments/    # Personal experiments and explorations
-└── resources/      # Useful links and references
+├── module-01-claude-code-fundamentals/
+│   └── NOTES.md
+├── module-02-building-with-claude-api/
+│   ├── 01-accessing-claude-with-api/
+│   ├── 02-prompt-evaluation/
+│   ├── 03-prompt-engineering-techniques/
+│   ├── 04-tools-with-claude/
+│   ├── 05-retrieval-augmented-generation/
+│   ├── 06-features-of-claude/
+│   ├── 07-model-context-protocol/
+│   ├── 08-anthropic-apps/
+│   └── 09-agents-and-workflows/
+├── module-03-intro-to-mcp/
+├── module-04-mcp-advanced-topics/
+└── module-05-intro-to-agent-skills/
 ```
 
 ## Key Concepts Covered

@@ -7,9 +7,20 @@ It contains notebooks, notes, and experiments for each module.
 
 ```
 claude-code-learning/
-├── module-03-claude-api/       # Module 3: Accessing Claude with the API
-├── module-04-*/                # Add as course progresses
-└── README.md
+├── module-01-claude-code-fundamentals/
+├── module-02-building-with-claude-api/
+│   ├── 01-accessing-claude-with-api/
+│   ├── 02-prompt-evaluation/
+│   ├── 03-prompt-engineering-techniques/
+│   ├── 04-tools-with-claude/
+│   ├── 05-retrieval-augmented-generation/
+│   ├── 06-features-of-claude/
+│   ├── 07-model-context-protocol/
+│   ├── 08-anthropic-apps/
+│   └── 09-agents-and-workflows/
+├── module-03-intro-to-mcp/
+├── module-04-mcp-advanced-topics/
+└── module-05-intro-to-agent-skills/
 ```
 
 ## Conventions

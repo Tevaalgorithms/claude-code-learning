@@ -171,7 +171,15 @@ context limit and a way to exit the loop.
 - [ ] Stop sequences — how to tell Claude to stop at a specific word or pattern
 - [ ] Token counting — `client.messages.count_tokens()` before sending a request
 - [ ] Vision — passing images alongside text in the `content` field
-- [ ] Tool use — letting Claude call functions in your code
+- [x] Tool use — letting Claude call functions in your code → see `agents_workflows/`
+
+---
+
+## Sub-sections
+
+| Folder | Topic | Notes |
+|---|---|---|
+| `agents_workflows/` | Agents and Agentic Workflows | See `agents_workflows/NOTES.md` |
 
 ---
 
